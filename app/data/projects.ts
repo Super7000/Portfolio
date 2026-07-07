@@ -173,8 +173,8 @@ const projectsData: ProjectType[] = [
       "/assets/CRM-Console/5.webp",
     ],
     ownerDetails: {
-      name: "Sourav Halder",
-      role: "Client",
+      name: "Debapriyo Saha",
+      role: "Business Services",
       url: null,
       feedback:
         "The CRM system delivered is exceptional. The AI scraping process and dynamic email templates automated our workflow perfectly, and tracking transactions has never been easier.",
